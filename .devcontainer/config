@@ -1,9 +1,9 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = myaccount
-username = myusername
-password = mypassword
+accountname = advisor360-azeast
+username = tgreenan
+password = EyeLoveDevLab1$
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
